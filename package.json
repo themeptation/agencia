@@ -1,0 +1,23 @@
+{
+  "name": "agencia",
+  "version": "1.0.0",
+  "description": "Free Creative Landing Page HTML5 Template using Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "website",
+    "agency",
+    "html5",
+    "themeptation",
+    "free"
+  ],
+  "author": "Themeptation",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
